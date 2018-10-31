@@ -1,3 +1,4 @@
 function msg(){  
- alert("Hello Javatpoint");  
+ alert("Hello Javatpoint"); 
+this is few changes in js file 
 }  
